@@ -10,6 +10,7 @@ public class GoodsVo {
 	public GoodsVo() {
 		// abc
 		// ccc
+		// zzzz
 	}
 	
 	public GoodsVo(int no, String item, int price, String detail, String img) {
