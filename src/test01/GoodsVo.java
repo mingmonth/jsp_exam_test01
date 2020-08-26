@@ -7,8 +7,7 @@ public class GoodsVo {
 	private String detail;
 	private String img;
 	
-	public GoodsVo() {
-		// abc
+	public GoodsVo() {		
 		// ccc
 		// zzzz
 	}
