@@ -8,7 +8,7 @@ public class GoodsVo {
 	private String img;
 	
 	public GoodsVo() {
-		
+		//abc
 	}
 	
 	public GoodsVo(int no, String item, int price, String detail, String img) {
